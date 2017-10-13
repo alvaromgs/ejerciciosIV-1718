@@ -49,7 +49,7 @@ Procesador: Intel(R) Core(TM) i5-2450M
 
 Salida del comando:
 
-![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/ej3.png "Salida del comando egrep '^flags.*(vmx|svm)' /proc/cpuinfo")
+![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/tema1ej3.png "Salida del comando egrep '^flags.*(vmx|svm)' /proc/cpuinfo")
 
 ## Ejercicio 4
 
@@ -57,4 +57,4 @@ Salida del comando:
 
 Como se puede observar en la siguiente captura, si que cuenta con este módulo:
 
-![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/ej4.png "Salida del comando kvm-ok")
+![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/tema1ej4.png "Salida del comando kvm-ok")
