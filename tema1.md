@@ -9,12 +9,12 @@ El servidor elegido es el [siguiente](https://www.amazon.es/dp/B018FUYLP6/ref=ps
 Porcentaje de amortización = 100 / vida útil estimada
 Amortización anual = base imponible * porcentaje de amortización
 
-* A cuatro años
+#### A cuatro años
 
  Porcentaje de amortización = 100 / 4 = 25%
  Amortización anual = 515.14 * 0.25 = 128.785€
 
-* A siete años
+#### A siete años
 
  Porcentaje de amortización = 100 / 7 = 14.29%
  Amortización anual = 515.14 * 0.1429 = 73.59€
@@ -25,14 +25,15 @@ Amortización anual = base imponible * porcentaje de amortización
 
 Compararemos el servidor virtual [VPS SSD 3](https://www.ovh.es/vps/vps-ssd.xml) y el proveedor de servicios en la nube [S1-8](https://www.ovh.es/public-cloud/instancias/precios/). Estas dos opciones ofrecen prestaciones similares: 2 vCores de procesador, 8GB de RAM y 40GB de almacenamiento SSD. En cuanto a su precio, la opción del VPS serían 11.99€ al mes mientras que los servicios en la nube nos costarían 0.033€/hora. Si tenemos en cuenta el coste total anual:
 
-* VPS
+#### VPS
 
  11.99€/mes * 12 meses = 143.88€
 
-* Cloud
+#### Cloud
 
- 10% de uso: 876 horas/año * 0.033€/hora = 28.9€
- 1% de uso: 87.6 horas/año * 0.033€/hora = 2.89€
+10% de uso: 876 horas/año * 0.033€/hora = 28.9€
+
+1% de uso: 87.6 horas/año * 0.033€/hora = 2.89€
 
 Se aprecia una diferencia de precios considerable, y es que contratando los servicios en la nube se paga por las horas de utilización mientras que con VPS existe una cuota fija al mes independientemente del uso que hayamos hecho de los recursos.
 
@@ -52,4 +53,4 @@ Salida del comando:
 
 Como se puede observar en la siguiente captura, si que cuenta con este módulo:
 
-![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/ej3.png "Salida del comando kvm-ok")
+![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/ej4.png "Salida del comando kvm-ok")
