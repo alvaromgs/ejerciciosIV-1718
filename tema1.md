@@ -7,6 +7,7 @@
 El servidor elegido es el [siguiente](https://www.amazon.es/dp/B018FUYLP6/ref=psdc_938009031_t2_B01LXZTH2Q). A su precio, 623.32€ habrá que descontarle el IVA (21%) para obtener la base imponible que es con lo que calcularemos los costes de amortización, es decir, 623.32 / 1.21 = 515.14€. Además utilizaremos las siguientes fórmulas:
 
 Porcentaje de amortización = 100 / vida útil estimada
+
 Amortización anual = base imponible * porcentaje de amortización
 
 #### A cuatro años
