@@ -11,13 +11,15 @@ Amortización anual = base imponible * porcentaje de amortización
 
 #### A cuatro años
 
- Porcentaje de amortización = 100 / 4 = 25%
- Amortización anual = 515.14 * 0.25 = 128.785€
+Porcentaje de amortización = 100 / 4 = 25%
+
+Amortización anual = 515.14 * 0.25 = 128.785€
 
 #### A siete años
 
- Porcentaje de amortización = 100 / 7 = 14.29%
- Amortización anual = 515.14 * 0.1429 = 73.59€
+Porcentaje de amortización = 100 / 7 = 14.29%
+
+Amortización anual = 515.14 * 0.1429 = 73.59€
 
 ## Ejercicio 2
 
