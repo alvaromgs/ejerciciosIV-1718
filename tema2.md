@@ -61,3 +61,19 @@ Seguidamente creo el entorno especificando la versión, en este caso la 3.5, y l
 
 ![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/tema2ej4.png "Gestionando el entorno virtual")
 
+## Ejercicio 5
+
+[Biblioteca principal del proyecto](https://github.com/alvaromgs/proyectoIV-1718/blob/master/bot/listas.py)
+
+## Ejercicio 6
+
+### Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
+
+Funciona tanto en Python 3 como en Python 2.
+
+## Ejercicio 9
+
+### Haced los dos primeros pasos antes de pasar al tercero.
+
+[Fichero de configuración](https://github.com/alvaromgs/proyectoIV-1718/blob/master/.travis.yml)
+
