@@ -49,4 +49,15 @@ El resultado de la ejecución es el siguiente:
 
 ![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/tema2ej3.png "Resultado de la ejecución del test")
 
+## Ejercicio 4
+
+### Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
+
+He instalado el entorno virtualenv de Python con la siguiente orden:
+
+```sudo apt install virtualenv python-virtualenv```
+
+Seguidamente creo el entorno especificando la versión, en este caso la 3.5, y lo activo y desactivo:
+
+![alt text](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/img/tema2ej4.png "Gestionando el entorno virtual")
 
